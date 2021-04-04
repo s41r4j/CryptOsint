@@ -9,4 +9,4 @@ and test your knowledge and skills.
 
 ### CTF(s) Links
 
-1. [Decode](https://github.com/s41r4j/cyberctf/decode.md)
+1. [Decode](https://github.com/s41r4j/cyberctf/Decode.md)
