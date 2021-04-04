@@ -1,6 +1,6 @@
 # Decode
 
-### ~~ Hello Friends ~~
+### ~~Hello Friends~~
 
 ## Welcome to the Decode challenge !!
 
