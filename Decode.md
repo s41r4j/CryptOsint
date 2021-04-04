@@ -1,13 +1,11 @@
 # Decode
 
-### ~~Hello Friend !!~~
+### ~~ Hello Friends ~~
 
 ## Welcome to the Decode challenge !!
 
-The challenge is based on [Cryptography](https://en.wikipedia.org/wiki/Cryptography) and [OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence).
-
-### Details
-The challenge is **Beginner Friendly** and contains **5** levels .
+The challenge is based on [Cryptography](https://en.wikipedia.org/wiki/Cryptography).
+It is a **Beginner Friendly** cryptography ctf .
 
 
 
