@@ -3,5 +3,5 @@
 Here you will find challenges to solve 
 and test your Knowledge and Skills.
 
-> Check the [Website](https://cybergreeks.zyrosite.com) for solutions.
+> Check the [Website](https://cybergreeks.zyrosite.com) for challenges and solutions.
 
