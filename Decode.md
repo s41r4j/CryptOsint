@@ -20,11 +20,9 @@ He remembered that he has encrypted 🗝️ his original password three 💬 tim
 Help him to get his password 🔑 back !! 
 
 ### The encrypted text mentioned in the above story is :
-'''
-
+```
 59 33 6c 69 5a 58 4a 6a 64 47 59 68 62 58 49 72 59 57 35 76 62 6a 70 77 64 32 51 3d
-
-'''
+```
 
 ## Recourses
 
