@@ -22,7 +22,7 @@ Help him to get his password 🔑 back !!
 
 ### The 'encrypted text' mentioned in the above story is :
 ```
-59 33 6c 69 5a 58 4a 6a 64 47 59 68 62 58 49 72 59 57 35 76 62 6a 70 77 64 32 51 3d
+4c 33 79 76 4d 4b 57 77 71 54 4c 75 6f 4b 56 65 4c 4a 35 69 6f 77 63 6a 71 32 44 3d
 ```
 
 ### If you get the password , submit [here](https://forms.gle/QhsarqmP1oajLtXQ6)
