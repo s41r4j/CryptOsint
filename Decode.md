@@ -7,17 +7,17 @@
 
 ## The story
 
-Mr. Anonymous has forgotten the password of his old Desktop computer .
-He has some important documents and pictures of his childhood .
+Mr. Anonymous has forgotten the password 🔑 of his old Desktop computer 🖥️ .
+He has some important documents 📂 and pictures 🖼️ of his childhood .
 
-He has brought the PC from ROT's shop 13 years ago.
-The shop was 64m away from the base of his house.
+He has brought the PC from ROT's shop 🛒 , 13 years ago.
+The shop 🛍️ was 64m 🛣️ away from the base of his house 🏠.
 
-He found the text 'encrypted text' inside a hexagon drawn on the back of 🖥️moniter.  
+He found the some 📜'encrypted text'📜 inside a hexagon drawn on the back of 🖥️ moniter.  
 
-He remembered that he has encrypted his original password three times with different algorithms .
+He remembered that he has encrypted 🗝️ his original password three 💬 times with different algorithms ♾️ .
 
-Help him to get his password back !
+Help him to get his password 🔑 back !! 
 
 ### The encrypted text mentioned in the above story is :
 '''
