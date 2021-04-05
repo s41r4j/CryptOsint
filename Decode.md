@@ -14,7 +14,7 @@ He has some important documents 📂 and pictures 🖼️ of his childhood in th
 He has brought the PC from ROT's shop 🛒 , 13 years ago.
 The shop 🛍️ was 64m 🛣️ away from the base of his house 🏠.
 
-He found some 📜'encrypted text'📜 inside a hexagon drawn on the back of 🖥️ moniter.  
+He has found some 📜'encrypted text'📜 inside a hexagon drawn on the back of 🖥️ moniter.  
 
 He remembered that he has encrypted 🗝️ his original password three 💬 times with different ♾️ algorithms .
 
