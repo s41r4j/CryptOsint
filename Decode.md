@@ -25,6 +25,8 @@ Help him to get his password 🔑 back !!
 59 33 6c 69 5a 58 4a 6a 64 47 59 68 62 58 49 72 59 57 35 76 62 6a 70 77 64 32 51 3d
 ```
 
+### If you get the password , submit [here](https://forms.gle/QhsarqmP1oajLtXQ6)
+
 ## Recourses
 
 > [Cyber Chef](http://icyberchef.com/)
