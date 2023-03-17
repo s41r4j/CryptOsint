@@ -12,7 +12,7 @@ Mr. Anonymous has forgotten the password 🔑 of his old Desktop computer 🖥�
 He has some important documents 📂 and pictures 🖼️ of his childhood in that .
 
 He has brought the PC from ROT's shop 🛒 , 13 years ago.
-The shop 🛍️ was 64m 🛣️ away from the base of his house 🏠.
+The shop 🛍️ was 64m 🛣️ away from the basement of his house 🏠.
 
 He has found some 📜'encrypted text'📜 inside a hexagon drawn on the back of 🖥️ moniter.  
 
